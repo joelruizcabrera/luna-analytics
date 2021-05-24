@@ -11,9 +11,12 @@
     "url": "git+https://github.com/joelruizcabrera/luna-analytics.git"
   },
   "author": "Joel Ruiz Cabrera",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/joelruizcabrera/luna-analytics/issues"
   },
-  "homepage": "https://github.com/joelruizcabrera/luna-analytics#readme"
+  "homepage": "https://github.com/joelruizcabrera/luna-analytics#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
 }

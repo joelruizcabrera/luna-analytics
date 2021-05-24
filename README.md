@@ -11,7 +11,7 @@
 </div>
 <div style="margin-top: 1rem">
     <p>Luna Analytics is the best Discord bot to view your Discord server statistics. With a flexible web connection, you can apply settings to view the potential of your channels.</p>
-    <p>You can log in to <a href="analytics.luna.com"><code>analytics.luna.com</code></a> with your Discord account and see all the statistics for the servers where you are the owner and where Luna is logged in.</p>
+    <p>You can log in to <a href="https://analytics.luna.com"><code>analytics.luna.com</code></a> with your Discord account and see all the statistics for the servers where you are the owner and where Luna is logged in.</p>
 </div>
 <div style="margin-top: 1rem">
     <h2 style="border-bottom: 1px solid">Commands</h2>
